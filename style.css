@@ -1,0 +1,53 @@
+
+
+form {
+  padding: 5rem 15rem;
+  border: solid;
+  background-color: #323232;
+}
+
+.outer-box {
+  border: 1px solid;
+  padding: 1rem;
+  background-color: darkgray;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.my-details {
+  border: 1px solid;
+  padding: 2rem;
+  background-color: darkgray;
+}
+
+.revenge-details {
+  border: 1px solid;
+  padding: 2rem;
+  background-color: darkgray;
+}
+
+.labels {
+  display: inline-block;
+  text-align: right;
+}
+
+.fields {
+  display: inline-block;
+  text-align: left;
+}
+h1 {
+  color: #e84545;
+  text-shadow: 1px 1px 2px black;
+}
+
+label {
+  display: inline-block;
+  text-align: right;
+}
+
+.btn {
+  box-shadow: 4px 4px 5px 0 rgba(255, 0, 0, 0.5);
+}
+
+.button {
+  text-align: center;
+}
